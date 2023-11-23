@@ -21,3 +21,10 @@ Tabla Estudiantes:
 ![image](https://github.com/Trini0895/CrudSpringBoot/assets/80925394/f7d85608-e727-4ba2-850d-602f9a7c17a6)
 
 ![image](https://github.com/Trini0895/CrudSpringBoot/assets/80925394/ccfedb87-2138-4f6d-aa64-91877dea7b8b)
+
+Listado de Estudiantes
+- Para el diseño se utilizo Bootstrap
+
+![image](https://github.com/Trini0895/CrudSpringBoot/assets/80925394/2c05aa6a-0eb6-4167-a9d6-9b720c19a346)
+
+
